@@ -4,6 +4,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Lingesh-S/learning-lab)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Lingesh-S/learning-lab?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Lingesh-S/learning-lab?style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Lingesh-S.learning-lab)
+
 
 ---
 
