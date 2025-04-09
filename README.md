@@ -4,7 +4,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Lingesh-S/learning-lab)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Lingesh-S/learning-lab?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Lingesh-S/learning-lab?style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Lingesh-S.learning-lab)
+![Profile Views](https://komarev.com/ghpvc/?username=Lingesh-S&label=Profile%20views&color=0e75b6&style=flat)
+
 
 
 
