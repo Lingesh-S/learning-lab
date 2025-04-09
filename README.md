@@ -1,5 +1,12 @@
 # 🧪 Learning Lab
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lingesh-S&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub last commit](https://img.shields.io/github/last-commit/Lingesh-S/learning-lab)
+![GitHub Repo stars](https://img.shields.io/github/stars/Lingesh-S/learning-lab?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Lingesh-S/learning-lab?style=social)
+
+---
+
 This repository is my personal learning space for daily practice, experiments, and technical growth.
 
 ## 🛠️ Lab Activities
